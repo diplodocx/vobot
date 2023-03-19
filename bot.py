@@ -123,3 +123,5 @@ def on_test_me(message):
 
 
 bot.infinity_polling()
+
+# TODO: make file logs, change the deleting func by adding indexes
